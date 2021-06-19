@@ -1,8 +1,15 @@
-# deep-learning-art-style-transfer
+# Deep-learning-art-style-transfer
 
 Transfer learning model built exploiting a pre-trained VGG19 model.
 
 <img src="results.PNG" width="800" /> 
+
+## Summary of choosen Hyperparams:
+
+<img src="hyperparams_summary.PNG" width="600" /> 
+
+* small learning rates tend to give better results but slow learning.
+* training for around 20 000 epauch gives good results
 
 
 ## References:
