@@ -1,6 +1,6 @@
 # Deep-learning-art-style-transfer
 
-Transfer learning model built exploiting a pre-trained VGG19 model.
+Style Transfer model built exploiting a pre-trained VGG19 model.
 
 <img src="results.PNG" width="800" /> 
 
