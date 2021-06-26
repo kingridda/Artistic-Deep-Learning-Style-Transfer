@@ -1,6 +1,6 @@
-# Artestic Deep Learning : Style Transfer
+# Artistic Deep Learning : Style Transfer
 
-Transfering the Starry night by Van Gogh style to Hassan II mosque image.
+Transferring the Starry night by Van Gogh style to Hassan II mosque image.
 
 Style Transfer model built exploiting a pre-trained VGG19 model.
 
